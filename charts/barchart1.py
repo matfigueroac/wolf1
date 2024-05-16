@@ -4,7 +4,7 @@ import os
 
 def create_chart():
     # Specify the path to your CSV file using a relative path
-    file_path = os.path.join('data', 'team_data G2_tipo de costo.csv')
+    file_path = os.path.join(os.path.dirname(__file__), 'team_data G2_tipo de costo.csv')
 
     # Read the CSV file into a DataFrame
     df = pd.read_csv(file_path, encoding='latin1')
