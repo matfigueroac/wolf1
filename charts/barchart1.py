@@ -3,8 +3,8 @@ import plotly.graph_objects as go
 import os
 
 def create_chart():
-    # Specify the path to your CSV file
-    file_path = os.path.join('C:\\Users\\Mati\\Desktop\\LF\\LORE\\website\\VS_CODE WE\\phidata\\Wolf performance', 'team_data G2_tipo de costo.csv')
+    # Specify the path to your CSV file using a relative path
+    file_path = os.path.join('data', 'team_data G2_tipo de costo.csv')
 
     # Read the CSV file into a DataFrame
     df = pd.read_csv(file_path, encoding='latin1')
