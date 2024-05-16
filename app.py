@@ -1,12 +1,13 @@
-from flask import Flask
+import os
 import dash
 import dash_bootstrap_components as dbc
 from dash import dcc, html
 from dash.dependencies import Input, Output
 import charts
 
-server = Flask(__name__)
-app = dash.Dash(__name__, server=server, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+
+server = app.server  # Asegúrate de incluir esta línea
 
 app.layout = dbc.Container(
     [
@@ -81,4 +82,5 @@ def update_chart(chart_name):
         return charts.create_heatmap4()
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    port = int(os.environ.get('PORT', 8050))
+    app.run_server(debug=True, host='0.0.0.0', port=port)
