@@ -1,0 +1,76 @@
+﻿Project Engineer,Project name,Planset,Task detail,PV AC Power KW Range,Project Category,Project Interconnection Type,Hours Logged,Estimated Hours Logged,Performance
+Felipe Figueroa,BioReal 250 FIT,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,100-250,PV+CUSTOM STRUCTURE,SIA,3,3.6,0.83
+Felipe Figueroa,BioReal 250 FIT,Utility Set,3LD,100-250,PV+CUSTOM STRUCTURE,SIA,15,21.7,0.69
+Emiliano Ahumada,Hale Lokahi Akahi,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,30-50,PV+ESS,CGS+,6.5,2.8,2.32
+Emiliano Ahumada,Hale Lokahi Akahi,Utility Set,3LD,30-50,PV+ESS,CGS+,19,16.8,1.13
+Emiliano Ahumada,Hale Lokahi Akahi,Utility Set,*Extra - ELEVATIONS FOR CGS+,30-50,PV+ESS,CGS+,1.5,2.8,0.54
+Emiliano Ahumada,Kihei Community Center,Utility Set,3LD,50-100,PV ONLY,NEM,17.5,17.8,0.98
+Emiliano Ahumada,Kihei Community Center,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,50-100,PV ONLY,NEM,2,3,0.67
+Felipe Figueroa,Kihei Community Center,Electrical Permit Set,EQUIPMENT SCHEDULES,50-100,PV ONLY,NEM,2,1.3,1.54
+Felipe Figueroa,Kihei Community Center,Electrical Permit Set,ELECTRICAL CALCULATIONS,50-100,PV ONLY,NEM,10,7.6,1.32
+Felipe Figueroa,Kihei Community Center,Electrical Permit Set,Electrical Labels,50-100,PV ONLY,NEM,1.5,1.3,1.15
+Felipe Figueroa,Kihei Community Center,Electrical Permit Set,TITLE PAGE,50-100,PV ONLY,NEM,2,1.9,1.05
+Felipe Figueroa,Kihei Community Center,Electrical Permit Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",50-100,PV ONLY,NEM,5,5.1,0.98
+Felipe Figueroa,Kihei Community Center,Electrical Permit Set,Electrical elevations,50-100,PV ONLY,NEM,9,10.4,0.87
+Felipe Figueroa,Kihei Community Center,Electrical Permit Set,3LD,50-100,PV ONLY,NEM,3.5,4.5,0.78
+Felipe Figueroa,Kihei Community Center,Electrical Permit Set,DATASHEETS FOR SUBMISSION (annex),50-100,PV ONLY,NEM,0.5,1.3,0.38
+Felipe Figueroa,Lagusta's Chocolates,Construction Set,3LD,50-100,PV ONLY,NEM,10,13.4,0.75
+Felipe Figueroa,Lagusta's Chocolates,Construction Set,Datasheets,50-100,PV ONLY,NEM,1,0.9,1.11
+Felipe Figueroa,Lagusta's Chocolates,Construction Set,ELECTRICAL CALCULATIONS,50-100,PV ONLY,NEM,6,5.2,1.15
+Felipe Figueroa,Lagusta's Chocolates,Construction Set,Electrical elevations,50-100,PV ONLY,NEM,4,3.7,1.08
+Felipe Figueroa,Lagusta's Chocolates,Construction Set,EQUIPMENT SCHEDULES,50-100,PV ONLY,NEM,3,1.5,2
+Felipe Figueroa,Lagusta's Chocolates,Construction Set,Electrical Labels,50-100,PV ONLY,NEM,2,1.5,1.33
+Felipe Figueroa,Lagusta's Chocolates,Construction Set,PV Layout structure details,50-100,PV ONLY,NEM,5,5.9,0.85
+Felipe Figueroa,Lagusta's Chocolates,Construction Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",50-100,PV ONLY,NEM,4,2.2,1.82
+Felipe Figueroa,Lagusta's Chocolates,Construction Set,Stringing,50-100,PV ONLY,NEM,10,7.4,1.35
+Felipe Figueroa,Lagusta's Chocolates,Construction Set,Structure and attachment details,50-100,PV ONLY,NEM,3,1.5,2
+Felipe Figueroa,Lagusta's Chocolates,Construction Set,TITLE PAGE,50-100,PV ONLY,NEM,2,1.5,1.33
+Emiliano Ahumada,Maui Palms,Utility Set,*Extra - ELEVATIONS FOR CGS+,30-50,PV ONLY,SMART DER EXPORT,9,2.6,3.46
+Emiliano Ahumada,Maui Palms,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,30-50,PV ONLY,SMART DER EXPORT,8,2.6,3.08
+Emiliano Ahumada,Maui Palms,Utility Set,3LD,30-50,PV ONLY,SMART DER EXPORT,14,15.5,0.9
+Emiliano Ahumada,Maui Palms,Electrical Permit Set,3LD,30-50,PV ONLY,SMART DER EXPORT,6.5,3.9,1.67
+Emiliano Ahumada,Maui Palms,Electrical Permit Set,TITLE PAGE,30-50,PV ONLY,SMART DER EXPORT,2,1.6,1.25
+Emiliano Ahumada,Maui Palms,Electrical Permit Set,EQUIPMENT SCHEDULES,30-50,PV ONLY,SMART DER EXPORT,1.2,1.1,1.09
+Emiliano Ahumada,Maui Palms,Electrical Permit Set,Electrical Labels,30-50,PV ONLY,SMART DER EXPORT,1.2,1.1,1.09
+Emiliano Ahumada,Maui Palms,Electrical Permit Set,DATASHEETS FOR SUBMISSION (annex),30-50,PV ONLY,SMART DER EXPORT,1,1.1,0.91
+Emiliano Ahumada,Maui Palms,Electrical Permit Set,ELECTRICAL CALCULATIONS,30-50,PV ONLY,SMART DER EXPORT,5,6.6,0.76
+Emiliano Ahumada,Maui Palms,Electrical Permit Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",30-50,PV ONLY,SMART DER EXPORT,3,4.4,0.68
+Emiliano Ahumada,Maui Palms,Electrical Permit Set,Electrical elevations,30-50,PV ONLY,SMART DER EXPORT,6,9.1,0.66
+Felipe Figueroa,Maui Palms,Construction Set,Structure and attachment details,30-50,PV ONLY,SMART DER EXPORT,3,1.3,2.31
+Felipe Figueroa,Maui Palms,Construction Set,Electrical elevations,30-50,PV ONLY,SMART DER EXPORT,6,3.2,1.88
+Felipe Figueroa,Maui Palms,Construction Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",30-50,PV ONLY,SMART DER EXPORT,3,1.9,1.58
+Felipe Figueroa,Maui Palms,Construction Set,Datasheets,30-50,PV ONLY,SMART DER EXPORT,1,0.8,1.25
+Felipe Figueroa,Maui Palms,Construction Set,Stringing,30-50,PV ONLY,SMART DER EXPORT,7,6.5,1.08
+Felipe Figueroa,Maui Palms,Construction Set,EQUIPMENT SCHEDULES,30-50,PV ONLY,SMART DER EXPORT,1,1.3,0.77
+Felipe Figueroa,Maui Palms,Construction Set,Electrical Labels,30-50,PV ONLY,SMART DER EXPORT,1,1.3,0.77
+Felipe Figueroa,Maui Palms,Construction Set,PV Layout structure details,30-50,PV ONLY,SMART DER EXPORT,4,5.2,0.77
+Felipe Figueroa,Maui Palms,Construction Set,TITLE PAGE,30-50,PV ONLY,SMART DER EXPORT,1,1.3,0.77
+Felipe Figueroa,Maui Palms,Construction Set,ELECTRICAL CALCULATIONS,30-50,PV ONLY,SMART DER EXPORT,3,4.5,0.67
+Felipe Figueroa,Maui Palms,Construction Set,3LD,30-50,PV ONLY,SMART DER EXPORT,3.5,11.6,0.3
+Felipe Figueroa,Paia Bay Coffee,Utility Set,*Extra - ELEVATIONS FOR CGS+,30-50,PV ONLY,CGS+,3,2.6,1.15
+Felipe Figueroa,Paia Bay Coffee,Utility Set,3LD,30-50,PV ONLY,CGS+,16,15.5,1.03
+Felipe Figueroa,Paia Bay Coffee,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,30-50,PV ONLY,CGS+,1,2.6,0.38
+Felipe Figueroa,Star Noodle,Utility Set,3LD,50-100,PV ONLY,SMART DER EXPORT,18,17.8,1.01
+Felipe Figueroa,Star Noodle,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,50-100,PV ONLY,SMART DER EXPORT,3,3,1
+Emiliano Ahumada,Trilogy,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,30-50,PV+ESS,CGS+,7,2.8,2.5
+Emiliano Ahumada,Trilogy,Utility Set,*Extra - ELEVATIONS FOR CGS+,30-50,PV+ESS,CGS+,4,2.8,1.43
+Emiliano Ahumada,Trilogy,Utility Set,3LD,30-50,PV+ESS,CGS+,12.5,16.8,0.74
+Emiliano Ahumada,Trilogy,Electrical Permit Set,EQUIPMENT SCHEDULES,30-50,PV+ESS,CGS+,2,1.2,1.67
+Emiliano Ahumada,Trilogy,Electrical Permit Set,Electrical Labels,30-50,PV+ESS,CGS+,2,1.2,1.67
+Emiliano Ahumada,Trilogy,Electrical Permit Set,3LD,30-50,PV+ESS,CGS+,5,4.2,1.19
+Emiliano Ahumada,Trilogy,Electrical Permit Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",30-50,PV+ESS,CGS+,5.5,4.7,1.17
+Emiliano Ahumada,Trilogy,Electrical Permit Set,ELECTRICAL CALCULATIONS,30-50,PV+ESS,CGS+,7.5,7.1,1.06
+Emiliano Ahumada,Trilogy,Electrical Permit Set,DATASHEETS FOR SUBMISSION (annex),30-50,PV+ESS,CGS+,1,1.2,0.83
+Emiliano Ahumada,Trilogy,Electrical Permit Set,Electrical elevations,30-50,PV+ESS,CGS+,7.5,9.8,0.77
+Emiliano Ahumada,Trilogy,Electrical Permit Set,TITLE PAGE,30-50,PV+ESS,CGS+,1,1.8,0.56
+Emiliano Ahumada,Trilogy,Construction Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",30-50,PV+ESS,CGS+,5.75,2.1,2.74
+Emiliano Ahumada,Trilogy,Construction Set,Structure and attachment details,30-50,PV+ESS,CGS+,3,1.4,2.14
+Emiliano Ahumada,Trilogy,Construction Set,Electrical Labels,30-50,PV+ESS,CGS+,2.5,1.4,1.79
+Emiliano Ahumada,Trilogy,Construction Set,TITLE PAGE,30-50,PV+ESS,CGS+,2.5,1.4,1.79
+Emiliano Ahumada,Trilogy,Construction Set,Electrical elevations,30-50,PV+ESS,CGS+,5.5,3.5,1.57
+Emiliano Ahumada,Trilogy,Construction Set,Datasheets,30-50,PV+ESS,CGS+,1.25,0.8,1.56
+Emiliano Ahumada,Trilogy,Construction Set,EQUIPMENT SCHEDULES,30-50,PV+ESS,CGS+,1.5,1.4,1.07
+Emiliano Ahumada,Trilogy,Construction Set,Stringing,30-50,PV+ESS,CGS+,6.5,7,0.93
+Emiliano Ahumada,Trilogy,Construction Set,ELECTRICAL CALCULATIONS,30-50,PV+ESS,CGS+,4.5,4.9,0.92
+Emiliano Ahumada,Trilogy,Construction Set,3LD,30-50,PV+ESS,CGS+,10.5,12.6,0.83
+Emiliano Ahumada,Trilogy,Construction Set,PV Layout structure details,30-50,PV+ESS,CGS+,4,5.6,0.71

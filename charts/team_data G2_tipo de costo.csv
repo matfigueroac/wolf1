@@ -1,0 +1,444 @@
+Project Engineer,Task Category,Date,Project name,Planset/Task Type,Task detail,Hours Logged,Revision #,Comments/ Notes,PV AC Power KW Range,Project Category,Project Interconnection Type,# of Interconnection points,Cost Type
+Emiliano Ahumada,Projects,12/26/2023,Kihei Community Center,Utility Set,3LD,4,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,12/27/2023,Kihei Community Center,Utility Set,3LD,5,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,12/28/2023,Haleakala Shores Phase 2,As Built Set,ELECTRICAL ELEVATIONS,4,1,,50-100,PV+ESS,NEM,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,12/28/2023,Kihei Community Center,Utility Set,3LD,3.5,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,12/29/2023,Bank of Hawaii,As Built Set,ELECTRICAL ELEVATIONS,3,1,,50-100,PV+ESS+CARPORT,CGS+,2 interconnection points,Direct Cost
+Emiliano Ahumada,Projects,12/29/2023,Haleakala Shores Phase 2,As Built Set,3LD,1,1,,50-100,PV+ESS,NEM,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,12/29/2023,Kihei Community Center,Utility Set,3LD,3,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,1/2/2024,BioReal 250 FIT,Utility Set,3LD,15,0.A,Stringing calculations / space problems ? confirm with Chauncey,100-250,PV+CUSTOM STRUCTURE,SIA,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,1/2/2024,BioReal 250 FIT,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,3,0.A,,100-250,PV+CUSTOM STRUCTURE,SIA,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/2/2024,Haleakala Shores Phase 2,As Built Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",1,1,,50-100,PV+ESS,NEM,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/2/2024,Haleakala Shores Phase 2,As Built Set,ELECTRICAL ELEVATIONS,4,1,,50-100,PV+ESS,NEM,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/2/2024,Kihei Community Center,Utility Set,3LD,2,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/2/2024,Maui HomeWorld,As Built Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",3,1,,100-250,PV ONLY,NEM,2 interconnection points,Direct Cost
+Emiliano Ahumada,Projects,1/2/2024,Maui HomeWorld,As Built Set,3LD,3,1,,100-250,PV ONLY,NEM,2 interconnection points,Direct Cost
+Emiliano Ahumada,Projects,1/3/2024,Haleakala Shores Phase 2,As Built Set,ELECTRICAL ELEVATIONS,6,1,,50-100,PV+ESS,NEM,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/3/2024,Maui HomeWorld,As Built Set,ELECTRICAL ELEVATIONS,6.5,1,,100-250,PV ONLY,NEM,2 interconnection points,Direct Cost
+Felipe Figueroa,Engineering,1/3/2024,,Planset Template Improvements,,1,,Creación de template y formato para Electrical,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,1/4/2024,Bank of Hawaii,As Built Set,ELECTRICAL ELEVATIONS,4,1,,50-100,PV+ESS+CARPORT,CGS+,2 interconnection points,Direct Cost
+Emiliano Ahumada,Projects,1/4/2024,Maui HomeWorld,As Built Set,ELECTRICAL ELEVATIONS,7,1,,100-250,PV ONLY,NEM,2 interconnection points,Direct Cost
+Emiliano Ahumada,Projects,1/8/2024,3650 Waialae,As Built Set,ELECTRICAL ELEVATIONS,0.5,1,,100-250,PV+ESS+CUSTOM STRUCTURE,SIA,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,1/8/2024,95 E. LIPOA,As Built Set,,2,,Latest updates,30-50,PV ONLY,CGS+,2 interconnection points,Direct Cost
+Emiliano Ahumada,Projects,1/8/2024,Bank of Hawaii,As Built Set,ELECTRICAL ELEVATIONS,3,1,,50-100,PV+ESS+CARPORT,CGS+,2 interconnection points,Direct Cost
+Emiliano Ahumada,Projects,1/8/2024,Haleakala Shores Phase 2,As Built Set,ELECTRICAL ELEVATIONS,1,1,,50-100,PV+ESS,NEM,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/8/2024,Kihei Community Center,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,2,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/8/2024,Maui HomeWorld,As Built Set,TITLE PAGE,0.5,1,,100-250,PV ONLY,NEM,2 interconnection points,Direct Cost
+Felipe Figueroa,Engineering,1/8/2024,,Planset Template Improvements,,2,0.A,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,1/8/2024,,Meeting,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/8/2024,,Meeting,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,1/9/2024,95 E. LIPOA,As Built Set,,6,0.A,Sent for revision,30-50,PV ONLY,CGS+,2 interconnection points,Direct Cost
+Emiliano Ahumada,Projects,1/9/2024,Bank of Hawaii,As Built Set,ELECTRICAL ELEVATIONS,1.25,1,Last details of As Built (MF Comments),50-100,PV+ESS+CARPORT,CGS+,2 interconnection points,Direct Cost
+Felipe Figueroa,Engineering,1/9/2024,Kihei Community Center,Engineering review,,1.25,,"Revision of project folders and information about
+the equipments",50-100,PV ONLY,NEM,1 interconnection point,Indirect Cost
+Emiliano Ahumada,Engineering,1/9/2024,,Engineering Library,,6.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/9/2024,,Emails,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,1/10/2024,95 E. LIPOA,As Built Set,,2,1,Sent for revision,30-50,PV ONLY,CGS+,2 interconnection points,Direct Cost
+Felipe Figueroa,Projects,1/10/2024,95 E. LIPOA,As Built Set,3LD,1,2,"Maui Hill 3LD BLD D, E & F As Built",30-50,PV ONLY,CGS+,2 interconnection points,Direct Cost
+Emiliano Ahumada,Projects,1/10/2024,Haleakala Shores Phase 2,As Built Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",3,1,"Removing all DC Disconnect information and 
+last details of the planset",50-100,PV+ESS,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Management,1/10/2024,,Meeting,,0.5,,Hours log meeting,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/10/2024,,Meeting,,0.5,,Hours Log update,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,1/10/2024,,Engineering Library,,7,Internal,Engineer Library,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,1/11/2024,Haleakala Shores Phase 2,As Built Set,3LD,2,1,3LD UPDATE. Egauge power supply,50-100,PV+ESS,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Engineering,1/11/2024,Kihei Community Center,Engineering review,,1.5,,Module and Microinverter,50-100,PV ONLY,NEM,1 interconnection point,Indirect Cost
+Felipe Figueroa,Engineering,1/11/2024,,Training,,2,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,1/11/2024,,Training,,1,,"INVERTER AND MODULE, SOLGAS",#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/11/2024,,Meeting,,1.25,,Email configuration tools,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/11/2024,,Meeting,,1.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,1/11/2024,,Meeting,,0.5,,Wolf document revision,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,1/11/2024,,Engineering review,,1.5,,RFI QUOTING SOLGAS,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,1/11/2024,,Engineering Library,,4,,Engineer Library,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/11/2024,,Emails,,1,,"Impp components issue, HS2 , HRCC release",#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,1/11/2024,,Emails,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,1/12/2024,Haleakala Shores Phase 2,As Built Set,3LD,1,2,,50-100,PV+ESS,NEM,1 interconnection point,Direct Cost
+Emiliano Ahumada,Engineering,1/12/2024,,Training,,3,,INVERTER SOLGAS,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/12/2024,,Training,,1.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/12/2024,,Planset Template Improvements,,0.5,,3LD & Site Map Linked on EP Planset,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,1/12/2024,,Engineering review,,2.5,,CAD ELEVATIONS INVERTER,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,1/12/2024,,Engineering review,,1.5,,RFI QUOTING SOLGAS,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/15/2024,BioReal 250 FIT,Engineering review,,1,,Electrical Permit Review,100-250,PV+CUSTOM STRUCTURE,SIA,1 interconnection point,Indirect Cost
+Felipe Figueroa,Engineering,1/15/2024,,Training,,2,,NFPA NEC,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,1/15/2024,,Training,,2,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Other,1/15/2024,,Rest / Stretch / Walk,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/15/2024,,Meeting,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/15/2024,,Meeting,,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,1/15/2024,,Meeting,,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/15/2024,,Lunch,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/15/2024,,Engineering review,,1,,Kihei Community Center info,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,1/15/2024,,Engineering Library,,4.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/15/2024,,Emails,,1,,need AutoCad Account,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/16/2024,Kihei Community Center,Engineering review,,3,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Indirect Cost
+Emiliano Ahumada,Engineering,1/16/2024,,Training,,4,,Can't work without AutoCad,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/16/2024,,Training,,4,,Can't work without AutoCad,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,1/16/2024,,Training,,3,,NFPA Training,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/16/2024,,Lunch,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,1/17/2024,Trilogy,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,6.5,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/17/2024,Trilogy,Electrical Permit Set,3LD,1,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Engineering,1/17/2024,,Training,,3,,NEC NFPA Training,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Other,1/17/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Other,1/17/2024,,Rest / Stretch / Walk,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/17/2024,,Lunch,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,1/18/2024,Hale Lokahi Akahi,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,3.5,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Engineering,1/18/2024,Hale Lokahi Akahi,Engineering review,,1,,,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Felipe Figueroa,Management,1/18/2024,Hale Lokahi Akahi,Emails,,0.5,,,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Emiliano Ahumada,Engineering,1/18/2024,Hale Lokahi Akahi,Control Revision,Revision of Utility,0.5,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Emiliano Ahumada,Projects,1/18/2024,Trilogy,Utility Set,*Extra - ELEVATIONS FOR CGS+,4,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/18/2024,Trilogy,Utility Set,3LD,3,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/18/2024,Trilogy,Utility Set,3LD,3,0.B,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/18/2024,Trilogy,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,0.5,0.B,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/18/2024,Trilogy,Electrical Permit Set,TITLE PAGE,1,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Other,1/18/2024,,Rest / Stretch / Walk,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/18/2024,,Engineering Library,,0.75,,HomeGrid batteries & Sol-Ark inverter,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,1/19/2024,Hale Lokahi Akahi,Utility Set,3LD,3,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/19/2024,Trilogy,Electrical Permit Set,ELECTRICAL ELEVATIONS,3,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/19/2024,Trilogy,Electrical Permit Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",1.5,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/19/2024,Trilogy,Electrical Permit Set,ELECTRICAL ELEVATIONS,1,1,Updated and Send REV.1 to Client,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/19/2024,Trilogy,Electrical Permit Set,ELECTRICAL CALCULATIONS,0.25,,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Management,1/19/2024,,Weekly Timesheet,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/19/2024,,Rest / Stretch / Walk,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/19/2024,,Meeting,,0.75,,Hours Log & gmail meeting,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/19/2024,,Meeting,,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,1/19/2024,,Meeting,,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/19/2024,,Lunch,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Other,1/19/2024,,Lunch,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/19/2024,,Engineering review,,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,1/20/2024,Trilogy,Electrical Permit Set,ELECTRICAL ELEVATIONS,3,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/22/2024,Hale Lokahi Akahi,Utility Set,3LD,3,,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Management,1/22/2024,Hale Lokahi Akahi,Control Revision,Revision of Utility,2,,,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Emiliano Ahumada,Projects,1/22/2024,Trilogy,Electrical Permit Set,Electrical Labels,2,,Send internal REV 0.A,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/22/2024,Trilogy,Electrical Permit Set,EQUIPMENT SCHEDULES,2,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/22/2024,Trilogy,Electrical Permit Set,ELECTRICAL CALCULATIONS,0.75,,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Management,1/22/2024,,Smartsheet,Task management,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Other,1/22/2024,,Rest / Stretch / Walk,Internal,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/22/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/22/2024,,Planset Template Improvements,,5,,Creation of Electrical for Construction template,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,1/22/2024,,Meeting,Internal,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/22/2024,,Meeting,,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,1/22/2024,,Meeting,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/22/2024,,Lunch,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,1/23/2024,Hale Lokahi Akahi,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,3,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Engineering,1/23/2024,Hale Lokahi Akahi,Engineering review,,1,,,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Emiliano Ahumada,Projects,1/23/2024,Trilogy,Utility Set,3LD,1.5,0.C,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/23/2024,Trilogy,Electrical Permit Set,ELECTRICAL CALCULATIONS,3,0.B,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/23/2024,Trilogy,Electrical Permit Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",2,0.B,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/23/2024,Trilogy,Electrical Permit Set,DATASHEETS FOR SUBMISSION (annex),1,0.B,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Management,1/23/2024,,Smartsheet,Task management,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/23/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/23/2024,,Planset Template Improvements,,1.5,,Electrical For Construction update,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Other,1/23/2024,,Lunch,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/23/2024,,Lunch,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/24/2024,Hale Lokahi Akahi,Engineering review,,1,,3LD,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Emiliano Ahumada,Projects,1/24/2024,Trilogy,Utility Set,3LD,3,0.C,Review connection of IQ Micro inverter,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Engineering,1/24/2024,Trilogy,Engineering review,,0.25,,,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Emiliano Ahumada,Projects,1/24/2024,Trilogy,Electrical Permit Set,3LD,3,0.C,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/24/2024,Trilogy,Electrical Permit Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",2,0.B,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/24/2024,Trilogy,Electrical Permit Set,ELECTRICAL CALCULATIONS,2,1,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Engineering,1/24/2024,,Training,,1.5,,NEC Breakers,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/24/2024,,Training,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/24/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/24/2024,,Planset Template Improvements,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/24/2024,,Lunch,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/25/2024,Hale Lokahi Akahi,Engineering review,,1.5,,Equipments,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Felipe Figueroa,Engineering,1/25/2024,Hale Lokahi Akahi,Engineering review,,1,,,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Emiliano Ahumada,Projects,1/25/2024,Trilogy,Utility Set,3LD,2,2,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/25/2024,Trilogy,Electrical Permit Set,ELECTRICAL ELEVATIONS,0.5,2,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/25/2024,Trilogy,Construction Set,Datasheets,0.5,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Engineering,1/25/2024,,Training,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/25/2024,,Smartsheet,Task management,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/25/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/25/2024,,Lunch,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/26/2024,Hale Lokahi Akahi,Smartsheet,Task management,1,,,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Emiliano Ahumada,Other,1/26/2024,Hale Lokahi Akahi,Rest / Stretch / Walk,,0.75,,,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Felipe Figueroa,Engineering,1/26/2024,Hale Lokahi Akahi,Planset Template Improvements,,0.5,,,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Emiliano Ahumada,Projects,1/26/2024,Trilogy,Construction Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",2.75,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/26/2024,Trilogy,Construction Set,3LD,2.5,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/26/2024,Trilogy,Construction Set,3LD,2,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/26/2024,Trilogy,Construction Set,Electrical elevations,2,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/26/2024,Trilogy,Construction Set,TITLE PAGE,1,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/26/2024,Trilogy,Construction Set,Datasheets,0.5,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/26/2024,Trilogy,Construction Set,Datasheets,0.25,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Engineering,1/26/2024,,Training,,1.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/26/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/26/2024,,Lunch,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/26/2024,,Hours log input,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/26/2024,,Emails,Gmail review,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/29/2024,Hale Lokahi Akahi,Training,,1.5,,ESS Standard NFPA 855,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Felipe Figueroa,Management,1/29/2024,Hale Lokahi Akahi,Emails,Gmail review,0.5,,,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Emiliano Ahumada,Projects,1/29/2024,Trilogy,Electrical Permit Set,ELECTRICAL CALCULATIONS,1.5,0.B,"Comments received, updated to REV 1",30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/29/2024,Trilogy,Electrical Permit Set,3LD,1,0.B,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/29/2024,Trilogy,Construction Set,Electrical elevations,2,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/29/2024,Trilogy,Construction Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",2,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/29/2024,Trilogy,Construction Set,Stringing,2,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/29/2024,Trilogy,Construction Set,Electrical Labels,1,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/29/2024,Trilogy,Construction Set,TITLE PAGE,1,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Engineering,1/29/2024,,Training,,3,,NEC Course Finished,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/29/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/29/2024,,Meeting,Internal,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/29/2024,,Lunch,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/29/2024,,Engineering review,,1.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,1/29/2024,,Engineering review,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/30/2024,Hale Lokahi Akahi,Engineering review,,1.5,,Customer Grid Supply Plus items,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Emiliano Ahumada,Projects,1/30/2024,Trilogy,Construction Set,Stringing,2,0.A,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/30/2024,Trilogy,Construction Set,Stringing,2,0.B,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/30/2024,Trilogy,Construction Set,Structure and attachment details,2,0.B,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/30/2024,Trilogy,Construction Set,Electrical elevations,1,0.B,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/30/2024,Trilogy,Construction Set,Electrical Labels,1,0.B,"Comments received, updated to REV 0.B",30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/30/2024,Trilogy,Construction Set,Electrical elevations,0.5,0.B,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/30/2024,Trilogy,Construction Set,Stringing,0.5,0.B,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Engineering,1/30/2024,,Training,,1.5,,NFPA,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/30/2024,,Training,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/30/2024,,Training,,0.5,,Disconnect means,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/30/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/30/2024,,Planset Template Improvements,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/30/2024,,Lunch,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/30/2024,,Hours log input,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/30/2024,,Emails,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,1/31/2024,Hale Lokahi Akahi,Training,,1,,,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Felipe Figueroa,Management,1/31/2024,Hale Lokahi Akahi,Emails,Gmail review,1.5,,Strings design,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Emiliano Ahumada,Projects,1/31/2024,Trilogy,Construction Set,3LD,3,0.D,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/31/2024,Trilogy,Construction Set,ELECTRICAL CALCULATIONS,2.5,0.D,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/31/2024,Trilogy,Construction Set,ELECTRICAL CALCULATIONS,2,0.D,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/31/2024,Trilogy,Construction Set,PV Layout structure details,2,0.C,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/31/2024,Trilogy,Construction Set,EQUIPMENT SCHEDULES,1,0.D,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/31/2024,Trilogy,Construction Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",1,1,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/31/2024,Trilogy,Construction Set,Structure and attachment details,1,1,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/31/2024,Trilogy,Construction Set,Electrical Labels,0.5,0.C,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/31/2024,Trilogy,Construction Set,EQUIPMENT SCHEDULES,0.5,0.D,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,1/31/2024,Trilogy,Construction Set,TITLE PAGE,0.5,0.E,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Management,1/31/2024,,Sheets Template Improvements,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/31/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,1/31/2024,,Lunch,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,1/31/2024,,Hours log input,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,2/1/2024,Kona Brewery,Quotation,Quotation report,1.25,,,100-250,PV+ESS,SIA,1 interconnection point,Indirect Cost
+Emiliano Ahumada,Projects,2/1/2024,Trilogy,Construction Set,3LD,3,0.D,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,2/1/2024,Trilogy,Construction Set,PV Layout structure details,2,0.C,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Management,2/1/2024,,Sheets Template Improvements,,2,,CGS+ Utility Permit Set Google Doc Creation,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Other,2/1/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/1/2024,,Rest / Stretch / Walk,,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,2/1/2024,,Planset Template Improvements,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,2/1/2024,,Meeting,Internal,0.5,Internal,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/1/2024,,Meeting,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/1/2024,,Meeting,Internal,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/1/2024,,Lunch,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,2/1/2024,,Hours log input,,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,2/2/2024,Kona Brewery,Quotation,Quotation report,1.5,,,100-250,PV+ESS,SIA,1 interconnection point,Indirect Cost
+Felipe Figueroa,Engineering,2/2/2024,,Training,,2,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/2/2024,,Sheets Template Improvements,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/2/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/2/2024,,Hours log input,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,2/5/2024,,Meeting,Internal,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,2/5/2024,,Hours log input,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,2/5/2024,,Engineering review,,2,,Notes CGS+,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/5/2024,,Day off,Administrative day,7.8,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,2/6/2024,Hale Lokahi Akahi,Utility Set,3LD,3.25,,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Engineering,2/6/2024,Hale Lokahi Akahi,Engineering review,,2,,,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Felipe Figueroa,Other,2/6/2024,,Rest / Stretch / Walk,,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/6/2024,,Meeting,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/6/2024,,Hours log input,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,2/6/2024,,Engineering review,,4,,RFI FORM AFTER CONTRACT COMMENTS.,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/6/2024,,Emails,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,2/7/2024,Hale Lokahi Akahi,Utility Set,3LD,2.25,1,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Engineering,2/7/2024,Hale Lokahi Akahi,Engineering review,,1,,Review manuals and project,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Felipe Figueroa,Management,2/7/2024,,Smartsheet,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/7/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,2/7/2024,,Planset Template Improvements,,1,Internal,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/7/2024,,Meeting,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,2/7/2024,,Meeting,Internal,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/7/2024,,Emails,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,2/8/2024,Hale Lokahi Akahi,Utility Set,3LD,2,1,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Engineering,2/8/2024,,Training,,0.5,,Sol-ark Batteries,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/8/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,2/8/2024,,Planset Template Improvements,,3,,CGS+ DOC,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/8/2024,,Hours log input,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,2/9/2024,BioReal 250 FIT,Engineering review,,1,,,100-250,PV+CUSTOM STRUCTURE,SIA,1 interconnection point,Indirect Cost
+Emiliano Ahumada,Projects,2/9/2024,Hale Lokahi Akahi,Utility Set,3LD,2,1,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,2/9/2024,Hale Lokahi Akahi,Utility Set,*Extra - ELEVATIONS FOR CGS+,1.5,,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Engineering,2/9/2024,Hale Lokahi Akahi,Training,,1.5,,New Batteries SOL-ARK,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Emiliano Ahumada,Management,2/9/2024,Hale Lokahi Akahi,Emails,,0.5,,Send Emails to Sol-ark,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Felipe Figueroa,Management,2/9/2024,,Smartsheet,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/9/2024,,Rest / Stretch / Walk,,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,2/9/2024,,Planset Template Improvements,,4,,CGS+ DOC,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,2/9/2024,,Planset Template Improvements,,1.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/9/2024,,Hours log input,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/9/2024,,Emails,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,2/12/2024,Hale Lokahi Akahi,Utility Set,3LD,3.5,,,30-50,PV+ESS,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Engineering,2/12/2024,,Training,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/12/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,2/12/2024,,Planset Template Improvements,,5,,CGS+ DOC,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/12/2024,,Meeting,Internal,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,2/12/2024,,Meeting,Internal,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,2/12/2024,,Engineering Library,,3,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,2/13/2024,,Training,,2.25,,Investigating Sol-ark inverter & batteries,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,2/13/2024,,Training,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/13/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Other,2/13/2024,,Rest / Stretch / Walk,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,2/13/2024,,Planset Template Improvements,,5,,CGS+ DOC,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,2/13/2024,,Planset Template Improvements,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,2/13/2024,,Hours log input,,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,2/13/2024,,Engineering Library,,3.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/13/2024,,ASANA,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,2/14/2024,Maui Palms,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,4,,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Engineering,2/14/2024,,Training,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/14/2024,,Rest / Stretch / Walk,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,2/14/2024,,Planset Template Improvements,,6,,CGS+ DOC,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,2/14/2024,,Engineering Library,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Other,2/14/2024,,Day off,Other,2.5,,Medical exams,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,2/15/2024,Maui Palms,Utility Set,3LD,3,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,2/15/2024,Paia Bay Coffee,Utility Set,3LD,3,0.A,,30-50,PV ONLY,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,2/15/2024,Paia Bay Coffee,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,1,0.A,,30-50,PV ONLY,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Management,2/15/2024,,Sheets Template Improvements,,2,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/15/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,2/15/2024,,Hours log input,,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,2/15/2024,,Hours log input,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,2/15/2024,,Engineering Library,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,2/16/2024,Paia Bay Coffee,Utility Set,3LD,4,0.A,,30-50,PV ONLY,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Engineering,2/16/2024,,Training,,1.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,2/16/2024,,Training,,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/16/2024,,Rest / Stretch / Walk,,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,2/19/2024,Paia Bay Coffee,Utility Set,3LD,3,0.A,,30-50,PV ONLY,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Engineering,2/19/2024,,Training,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/19/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,2/19/2024,,Meeting,Internal,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,2/19/2024,,Meeting,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/19/2024,,Meeting,Internal,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,2/19/2024,,Engineering review,,1.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,2/20/2024,Maui Palms,Utility Set,3LD,4,,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,2/20/2024,Maui Palms,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,2,,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,2/20/2024,Paia Bay Coffee,Utility Set,3LD,3,0.A,,30-50,PV ONLY,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Engineering,2/20/2024,,Training,,2,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/20/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/20/2024,,Hours log input,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/20/2024,,Emails,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/20/2024,,ASANA,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,2/21/2024,Paia Bay Coffee,Utility Set,3LD,3,0.A,,30-50,PV ONLY,CGS+,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,2/21/2024,Paia Bay Coffee,Utility Set,*Extra - ELEVATIONS FOR CGS+,3,0.A,,30-50,PV ONLY,CGS+,1 interconnection point,Direct Cost
+Emiliano Ahumada,Management,2/21/2024,Trilogy,Meeting,Client,0.75,,,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Felipe Figueroa,Other,2/21/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,2/22/2024,Maui Palms,Utility Set,*Extra - ELEVATIONS FOR CGS+,3.5,0.A,looking for information on the client's plans for elevations,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,2/22/2024,Star Noodle,Utility Set,3LD,3,0.A,,50-100,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,2/22/2024,Star Noodle,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,1,0.A,,50-100,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Emiliano Ahumada,Engineering,2/22/2024,Trilogy,Construction Set,Reviews / Changes,0.5,,,30-50,PV+ESS,CGS+,1 interconnection point,Indirect Cost
+Felipe Figueroa,Engineering,2/22/2024,,Training,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/22/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,2/23/2024,Maui Palms,Utility Set,*Extra - ELEVATIONS FOR CGS+,2.5,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,2/23/2024,Star Noodle,Utility Set,3LD,4,0.A,,50-100,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,2/23/2024,Star Noodle,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,0.5,0.A,,50-100,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Engineering,2/23/2024,,Training,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/23/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/23/2024,,Hours log input,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/23/2024,,Emails,,0.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,2/26/2024,Maui Palms,Utility Set,3LD,3,0.A,ADD PANEL 1W,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,2/26/2024,Maui Palms,Utility Set,*Extra - ELEVATIONS FOR CGS+,3,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,2/26/2024,Star Noodle,Utility Set,3LD,2,0.A,,50-100,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Other,2/26/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,2/26/2024,,Meeting,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,2/26/2024,,Meeting,Internal,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,2/27/2024,Maui Palms,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,2,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Management,2/27/2024,,Sheets Template Improvements,,2,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/27/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,2/27/2024,,Engineering review,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,2/28/2024,Maui Palms,Utility Set,3LD,3,0.A,Update location of meters,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Management,2/28/2024,,Sheets Template Improvements,,2,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/28/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,2/28/2024,,Hours log input,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,2/28/2024,,Engineering Library,,1.25,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Projects,2/29/2024,Maui Palms,Utility Set,3LD,1,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Engineering,2/29/2024,,Training,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,2/29/2024,,Rest / Stretch / Walk,,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Engineering,2/29/2024,,Planset Template Improvements,,2,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,2/29/2024,,Engineering Library,,6,,organize the library and add designed 3ld drawings,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,3/1/2024,Lagusta's Chocolates,Construction Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",2,,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,3/1/2024,Lagusta's Chocolates,Construction Set,3LD,2,,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Other,3/1/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,3/1/2024,,Hours log input,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,3/4/2024,Lagusta's Chocolates,Construction Set,ELECTRICAL ELEVATIONS,4,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,3/4/2024,Maui Palms,Electrical Permit Set,TITLE PAGE,2,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Management,3/4/2024,,Sheets Template Improvements,,3,,excel NY,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,3/4/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,3/4/2024,,Meeting,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Management,3/4/2024,,Meeting,Internal,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,3/4/2024,,Engineering Library,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,3/5/2024,Lagusta's Chocolates,Construction Set,ELECTRICAL CALCULATIONS,3,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,3/5/2024,Lagusta's Chocolates,Construction Set,Electrical Labels,1,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,3/5/2024,Maui Palms,Electrical Permit Set,ELECTRICAL ELEVATIONS,6,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,3/5/2024,Maui Palms,Electrical Permit Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",3,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Emiliano Ahumada,Management,3/5/2024,,Training,Google apps,2,,"NEC code, google Docs",#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,3/5/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,3/6/2024,Lagusta's Chocolates,Construction Set,Stringing,3,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,3/6/2024,Lagusta's Chocolates,Construction Set,PV Layout structure details,2,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,3/6/2024,Maui Palms,Electrical Permit Set,3LD,6.5,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,3/6/2024,Maui Palms,Electrical Permit Set,ELECTRICAL CALCULATIONS,5,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,3/6/2024,Maui Palms,Electrical Permit Set,EQUIPMENT SCHEDULES,1.2,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Emiliano Ahumada,Management,3/6/2024,,Training,Google apps,1.5,,"NEC code, google Docs",#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,3/6/2024,,Rest / Stretch / Walk,,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Emiliano Ahumada,Engineering,3/6/2024,,Planset Template Improvements,,4.5,,"Layout Permit, Arch D",#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,3/7/2024,Lagusta's Chocolates,Construction Set,3LD,3,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,3/7/2024,Maui Palms,Electrical Permit Set,Electrical Labels,1.2,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Emiliano Ahumada,Projects,3/7/2024,Maui Palms,Electrical Permit Set,DATASHEETS FOR SUBMISSION (annex),1,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Management,3/7/2024,,Training,"PV Design (Code, design, other)",1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,3/7/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,3/8/2024,Lagusta's Chocolates,Construction Set,3LD,2,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,3/8/2024,Lagusta's Chocolates,Construction Set,EQUIPMENT SCHEDULES,1,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,3/8/2024,Lagusta's Chocolates,Construction Set,Datasheets,0.5,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Other,3/8/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,3/11/2024,Lagusta's Chocolates,Construction Set,Stringing,3,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Engineering,3/11/2024,,Training,,1,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,3/11/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,3/11/2024,,Meeting,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,3/11/2024,,Hours log input,,2,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,3/12/2024,Lagusta's Chocolates,Construction Set,TITLE PAGE,2,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,3/12/2024,Lagusta's Chocolates,Construction Set,Structure and attachment details,2,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,3/12/2024,Lagusta's Chocolates,Construction Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",1,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Other,3/12/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,3/13/2024,Lagusta's Chocolates,Construction Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",1,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Other,3/13/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Other,3/14/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,3/15/2024,Lagusta's Chocolates,Construction Set,3LD,3,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,3/15/2024,Lagusta's Chocolates,Construction Set,ELECTRICAL CALCULATIONS,1,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Other,3/15/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Management,3/18/2024,Lagusta's Chocolates,Meeting,Internal,0.5,,,50-100,PV ONLY,NEM,1 interconnection point,Indirect Cost
+Felipe Figueroa,Projects,3/18/2024,Lagusta's Chocolates,Construction Set,ELECTRICAL CALCULATIONS,2,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,3/18/2024,Lagusta's Chocolates,Construction Set,EQUIPMENT SCHEDULES,1,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Other,3/18/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,3/19/2024,Lagusta's Chocolates,Construction Set,PV Layout structure details,2,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,3/19/2024,Lagusta's Chocolates,Construction Set,EQUIPMENT SCHEDULES,1,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,3/19/2024,Lagusta's Chocolates,Construction Set,Electrical Labels,1,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,3/19/2024,Lagusta's Chocolates,Construction Set,Datasheets,0.5,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Other,3/19/2024,,Rest / Stretch / Walk,,0.75,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,3/20/2024,Lagusta's Chocolates,Construction Set,PV Layout structure details,1,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Other,3/20/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,3/21/2024,Lagusta's Chocolates,Construction Set,Stringing,2,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,3/21/2024,Lagusta's Chocolates,Construction Set,Structure and attachment details,1,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Other,3/21/2024,,Rest / Stretch / Walk,,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,3/22/2024,Lagusta's Chocolates,Construction Set,Stringing,2,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Management,3/25/2024,,Meeting,Internal,0.5,,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,4/1/2024,Kihei Community Center,Electrical Permit Set,TITLE PAGE,2,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Management,4/1/2024,,Meeting,,2.5,0.A,,#N/A,#N/A,#N/A,#N/A,Indirect Cost
+Felipe Figueroa,Projects,4/2/2024,Kihei Community Center,Electrical Permit Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",5,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/2/2024,Kihei Community Center,Electrical Permit Set,ELECTRICAL ELEVATIONS,4,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/2/2024,Kihei Community Center,Electrical Permit Set,3LD,1.5,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/3/2024,Kihei Community Center,Electrical Permit Set,ELECTRICAL ELEVATIONS,5,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/3/2024,Kihei Community Center,Electrical Permit Set,ELECTRICAL CALCULATIONS,5,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/3/2024,Kihei Community Center,Electrical Permit Set,3LD,2,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/4/2024,Kihei Community Center,Electrical Permit Set,ELECTRICAL CALCULATIONS,5,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/4/2024,Kihei Community Center,Electrical Permit Set,EQUIPMENT SCHEDULES,2,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/4/2024,Kihei Community Center,Electrical Permit Set,Electrical Labels,1.5,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/5/2024,Kihei Community Center,Electrical Permit Set,DATASHEETS FOR SUBMISSION (annex),0.5,0.A,,50-100,PV ONLY,NEM,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/8/2024,Maui Palms,Construction Set,"SITE MAP, PV MODULE LAYOUT AND EQUIPMENT LOCATIONS",3,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/8/2024,Maui Palms,Construction Set,TITLE PAGE,1,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/9/2024,Maui Palms,Construction Set,PV Layout structure details,4,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/9/2024,Maui Palms,Construction Set,Structure and attachment details,1.5,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/9/2024,Maui Palms,Construction Set,Electrical Labels,1,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/10/2024,Maui Palms,Construction Set,Stringing,7,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/10/2024,Maui Palms,Construction Set,ELECTRICAL ELEVATIONS,1,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/11/2024,Maui Palms,Construction Set,ELECTRICAL ELEVATIONS,5,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/11/2024,Maui Palms,Construction Set,3LD,3.5,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/11/2024,Maui Palms,Construction Set,ELECTRICAL CALCULATIONS,3,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/11/2024,Maui Palms,Construction Set,EQUIPMENT SCHEDULES,1,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/11/2024,Maui Palms,Construction Set,Datasheets,1,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/12/2024,Maui Palms,Construction Set,Structure and attachment details,1.5,0.A,,30-50,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/26/2024,Star Noodle,Utility Set,SITE MAP AND EQUIPMENT LOCATIONS,1.5,0.A,,50-100,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/29/2024,Star Noodle,Utility Set,3LD,4,0.A,,50-100,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/29/2024,Star Noodle,Utility Set,3LD,1,0.A,,50-100,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
+Felipe Figueroa,Projects,4/30/2024,Star Noodle,Utility Set,3LD,4,0.A,,50-100,PV ONLY,SMART DER EXPORT,1 interconnection point,Direct Cost
